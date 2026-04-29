@@ -13,20 +13,20 @@ load_dotenv()
 import psycopg2
 import os
 
-df = pd.read_csv("data/ProductData.csv")
-df = df[['product', 'sale_price']]
+# df = pd.read_csv("data/ProductData.csv")
+# df = df[['product', 'sale_price']]
 
-df.rename(columns={
-    'product' : 'product_name',
-    'sale_price' : 'price',
-},inplace = True)
+# df.rename(columns={
+#     'product' : 'product_name',
+#     'sale_price' : 'price',
+# },inplace = True)
 
-df.dropna(inplace = True )
-df = df[df['price'] > 0 ]
+# df.dropna(inplace = True )
+# df = df[df['price'] > 0 ]
 
-print("data base connected ")
+# print("data base connected ")
 
-PRODUCTS_DF = pd.read_csv("data/ProductData.csv")[['product', 'sale_price']]
+# PRODUCTS_DF = pd.read_csv("data/ProductData.csv")[['product', 'sale_price']]
 
 def clean_amount(val):
     if not val:
