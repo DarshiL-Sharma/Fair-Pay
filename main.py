@@ -269,4 +269,4 @@ def save():
     return render_template("result.html", data=new_bill,matched_line=matched_line,score = score,success=True,db_product=db_product,market_price=market_price,verdict=verdict)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
