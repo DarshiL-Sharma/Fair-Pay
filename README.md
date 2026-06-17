@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="<img width="162" height="157" alt="image" src="https://github.com/user-attachments/assets/3c5b7dc0-7c93-4b9f-856a-3a5701961eb1" />
+"<img width="162" height="157" alt="image" src="https://github.com/user-attachments/assets/3c5b7dc0-7c93-4b9f-856a-3a5701961eb1" />
 " width="100%">
 
 # FairPay
@@ -39,10 +39,7 @@ The platform processes bills, identifies products, compares prices against real-
 
 <div align="center">
 
-<img src="<img width="1835" height="921" alt="image" src="https://github.com/user-attachments/assets/e3cb2980-1909-4532-8811-c0e374da2984" />
-" width="45%">
-</div>
-
+<img width="1835" height="921" alt="image" src="https://github.com/user-attachments/assets/e3cb2980-1909-4532-8811-c0e374da2984" />
 ---
 
 # ✨ Features
