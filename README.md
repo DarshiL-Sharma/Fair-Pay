@@ -1,6 +1,6 @@
 <div align="center">
 
-"<img width="162" height="157" alt="image" src="https://github.com/user-attachments/assets/3c5b7dc0-7c93-4b9f-856a-3a5701961eb1" />
+<img width="162" height="157" alt="image" src="https://github.com/user-attachments/assets/3c5b7dc0-7c93-4b9f-856a-3a5701961eb1" />
 
 # FairPay
 
